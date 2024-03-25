@@ -1,2 +1,3 @@
 # Freecad_logo_tes_template
-Blender test template to be used for generating logo overview.
+Just open the Blend file and change the images in the shader view as seen below;
+![blender_0Vn77UyyIU](https://github.com/MisterMakerNL/Freecad_logo_test_template/assets/29804962/0fbf40c3-bd74-4a6e-9269-ead234d51811)
